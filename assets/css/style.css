@@ -99,10 +99,6 @@ aside {
 
 
 @media screen and (min-width: 992px) {
-    header {
-      width: 75%;
-    }
-  
     .box {
       flex: 0 0 33.333%;
       max-width: 33.333%;
